@@ -7,11 +7,18 @@ body {
 }
 
 .container{
+  display: flex;
+  justify-content: space-around;
   max-width: 300px;
   background-color: lightslategray;
 }
 
 .box{
-  max-width: 100px;
+  margin: 10px 20px;
+  width: 120px;
   background-color: lavender
+}
+
+p{
+  text-align: center;
 }
