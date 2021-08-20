@@ -1,6 +1,11 @@
 import "./styles.css";
 
 //change the "show" class to "hide" when hovered over
+
+function hideWord(){
+    const wordBlackout = document.getElementsByClassName
+}
+
 //ask user for a word they'd like to show in a sentence
 //create a prompt that get the user to write a sentence using word
 //turn the inputted string of words into an array of single words
